@@ -1,0 +1,27 @@
+meal:
+  - $sandwhich
+  - $sandwhich_filling on toast
+  - $sandwhich_filling on a crumpet
+  - $vegetable soup
+
+sandwhich:
+  - $sandwhich_filling baguette
+  - $sandwhich_filling bagel
+  - $sandwhich_filling sandwhich
+
+sandwhich_filling:
+  - peanut butter
+  - $jam
+  - honey
+
+jam:
+  - marmalade
+  - $fruit jam
+
+fruit:
+  - banana
+  - raspberry
+  - strawberry
+
+vegetable:
+  - carot
